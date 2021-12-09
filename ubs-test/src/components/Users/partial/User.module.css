@@ -1,0 +1,23 @@
+.cardWrapper {
+  position: relative;
+  box-sizing: border-box;
+  padding: 5px;
+  cursor: pointer;
+  min-width: 100%;
+}
+.textWrapper {
+  background-color: #5e5e5ead;
+  position: absolute;
+  color: #fff;
+  width: calc(100% - 20px);
+  font-size: 16px;
+  bottom: 20px;
+  padding: 5px;
+}
+.dob {
+  font-size: 16px;
+}
+
+img {
+  width: 100%;
+}
